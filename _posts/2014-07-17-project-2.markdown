@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: adapt
+date: 2014-07-17
+img: adapt.png
+alt: adapt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: To adapt is to change in accordance to requirements.
+
+---

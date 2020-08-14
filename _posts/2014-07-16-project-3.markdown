@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: optimize
+date: 2014-07-16
+img: optimize.png
+alt: optimize
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: To optimize is to act in accordance to what was learned.
+
+---
